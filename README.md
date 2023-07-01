@@ -437,6 +437,7 @@ _Related: [DNS - Servers](#dns---servers)_
 
 - [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+- [Authentik](https://goauthentik.io/) - Identity Provider focused on flexibility and versatility. ([Source Code](https://github.com/goauthentik/authentik)) `CCBY-SA/MIT` `Python`
 
 
 ### IT Asset Management
